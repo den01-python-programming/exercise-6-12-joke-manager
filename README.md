@@ -122,3 +122,5 @@ Commands:
 X - stop
 **X**
 ```
+
+**NB:** There is no automatic testing for this exercise past syntax checking, so you should test your code before committing it.
